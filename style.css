@@ -1,0 +1,88 @@
+
+body {
+    background: none;
+    background-color: #B7D5D4;
+    border: dotted 4px;
+    margin: 80px;
+    padding: 40px;
+    min-width: 360px;
+}
+
+
+
+h1 {
+    text-decoration: underline double;
+    text-align: center;
+    color: ##305252;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2, 
+h3 {
+    color: #305252;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3.info {
+    font-style: italic;
+}
+
+p {
+    font-size: medium;
+    color: #373E40;
+    font-family:'Courier New', Courier, monospace;    
+}
+
+img {
+    border-radius: 70%;
+    height: 180px;
+    width: 180px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: double;
+    border-width: 12px;
+    margin-bottom: 20px;
+    
+
+}
+
+
+hr {
+    color: #305252;
+}
+
+ul,
+ol {
+    font-family:'Courier New', Courier, monospace;
+    color: #305252;
+}
+
+blockquote {
+    color: #305252;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+
+a.button {
+    background-color:#373E40;
+    border-radius: 4px;
+    padding: 8px;
+    margin-left: 0px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #B7D5D4;
+
+}
+
+a.button:active,a.button:hover,a.button:focus {
+    background-color: #305252;
+}
+
+footer {
+    text-align: right;
+}
